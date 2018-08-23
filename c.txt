@@ -1,1 +1,10 @@
+<<<<<<< Updated upstream
 i from dev
+=======
+<<<<<<< HEAD
+i am c in the master
+=======
+i am c in dev1
+hahahahahhhhhhh
+>>>>>>> dev1
+>>>>>>> Stashed changes

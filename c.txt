@@ -1,5 +1,1 @@
-<<<<<<< HEA:wqD
-i am ccccccccccc
-=======
-i am c in dev11111111
->>>>>>> dev1
+i am c

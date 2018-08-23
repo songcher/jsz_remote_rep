@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-i am c in the master
-=======
-i am c in dev1
-hahahahahhhhhhh
->>>>>>> dev1
+i from dev
